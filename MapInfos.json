@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"1_Karte","order":1,"parentId":0,"scrollX":7862.4,"scrollY":4473.599999999999},
+{"id":2,"expanded":true,"name":"2_Grassland","order":2,"parentId":0,"scrollX":3507,"scrollY":706},
+{"id":3,"expanded":false,"name":"3_Wald","order":4,"parentId":0,"scrollX":7862.4,"scrollY":4430.4},
+{"id":4,"expanded":false,"name":"4_Canyon","order":5,"parentId":0,"scrollX":7862.4,"scrollY":4430.4},
+{"id":5,"expanded":false,"name":"5_Wüste","order":6,"parentId":0,"scrollX":7862.4,"scrollY":4430.4},
+{"id":6,"expanded":false,"name":"6_Schnee","order":7,"parentId":0,"scrollX":7862.4,"scrollY":4430.4},
+{"id":7,"expanded":false,"name":"7_Ödland","order":8,"parentId":0,"scrollX":7862.4,"scrollY":4430.4},
+{"id":8,"expanded":false,"name":"8_Vulkan","order":9,"parentId":0,"scrollX":7862,"scrollY":4430.5},
+{"id":9,"expanded":false,"name":"Schloss","order":3,"parentId":2,"scrollX":7862.4,"scrollY":4473.599999999999},
+{"id":10,"expanded":false,"name":"EventLoader","order":10,"parentId":0,"scrollX":819,"scrollY":466}
+]
